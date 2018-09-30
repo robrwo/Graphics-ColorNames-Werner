@@ -1,6 +1,8 @@
-Revision history for Graphics-ColorNames-Changes:
+Revision history for Graphics-ColorNames-Werner:
 
 {{$NEXT}}
+  [Documentation]
+  - Fix typo in Changes.
 
 v1.0.1    2018-09-30 14:53:01+01:00 Europe/London
   [Documentation]
