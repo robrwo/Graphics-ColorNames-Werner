@@ -14,6 +14,7 @@ package Graphics::ColorNames::Werner;
 This module defines color names and their associated RGB values
 from the online version of
 L<Werner's Nomenclature of Colors|https://www.c82.net/werner/>.
+It is intended as a plugin for L<Graphics::ColorNames>.
 
 Note that the color names have been normalized to lower case,
 without and punctuation. However, they will use the original
@@ -25,6 +26,8 @@ use v5.6;
 
 use strict;
 use warnings;
+
+# RECOMMEND PREREQ: Graphics::ColorNames
 
 our $VERSION = 'v1.0.2';
 

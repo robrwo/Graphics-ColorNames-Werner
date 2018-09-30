@@ -1,4 +1,5 @@
 requires "perl" => "v5.6.0";
+recommends "Graphics::ColorNames" => "0";
 
 on 'test' => sub {
   requires "File::Spec" => "0";

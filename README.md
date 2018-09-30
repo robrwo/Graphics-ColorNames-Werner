@@ -20,6 +20,7 @@ $RgbBlack  = $NameTable->{asparagusgreen};
 This module defines color names and their associated RGB values
 from the online version of
 [Werner's Nomenclature of Colors](https://www.c82.net/werner/).
+It is intended as a plugin for [Graphics::ColorNames](https://metacpan.org/pod/Graphics::ColorNames).
 
 Note that the color names have been normalized to lower case,
 without and punctuation. However, they will use the original

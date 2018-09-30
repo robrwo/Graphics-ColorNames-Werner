@@ -4,6 +4,8 @@ Revision history for Graphics-ColorNames-Werner:
   [Documentation]
   - Fix typo in Changes.
 
+  - Specify Graphics::ColorNames as a recommendation.
+
   [Tests]
   - Specify minimum version of Types::Common::Numeric, #1.
 
