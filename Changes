@@ -4,6 +4,9 @@ Revision history for Graphics-ColorNames-Werner:
   [Documentation]
   - Fix typo in Changes.
 
+  [Tests]
+  - Specify minimum version of Types::Common::Numeric, #1.
+
 v1.0.1    2018-09-30 14:53:01+01:00 Europe/London
   [Documentation]
   - Fix Changes that was blindly copied from another module.

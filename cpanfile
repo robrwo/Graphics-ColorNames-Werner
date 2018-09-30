@@ -5,7 +5,7 @@ on 'test' => sub {
   requires "Module::Metadata" => "0";
   requires "Test::More" => "0";
   requires "Test::Most" => "0";
-  requires "Types::Common::Numeric" => "0";
+  requires "Types::Common::Numeric" => "1.004";
   requires "Types::Standard" => "0";
 };
 

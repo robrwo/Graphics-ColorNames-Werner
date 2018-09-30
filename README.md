@@ -43,6 +43,10 @@ feature.
 
 Robert Rothenberg <rrwo@cpan.org>
 
+# CONTRIBUTOR
+
+Slaven Rezić <slaven@rezic.de>
+
 # COPYRIGHT AND LICENSE
 
 Robert Rothenberg has dedicated the work to the Commons by waiving all of his
