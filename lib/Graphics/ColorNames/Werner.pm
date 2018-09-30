@@ -1,6 +1,6 @@
 package Graphics::ColorNames::Werner;
 
-# ABSTRACT: RGB codes for Werner's Nomensclature of Colours
+# ABSTRACT: RGB codes for Werner's Nomenclature of Colours
 
 =head1 SYNOPSIS
 

@@ -4,5 +4,7 @@ Revision history for Graphics-ColorNames-Changes:
   [Documentation]
   - Fix Changes that was blindly copied from another module.
 
+  - Fix typo in abstract.
+
 v1.0.0    2018-09-30 14:41:45+01:00 Europe/London
   -Initial Release

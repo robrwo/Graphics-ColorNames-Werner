@@ -1,6 +1,6 @@
 # NAME
 
-Graphics::ColorNames::Werner - RGB codes for Werner's Nomensclature of Colours
+Graphics::ColorNames::Werner - RGB codes for Werner's Nomenclature of Colours
 
 # VERSION
 
