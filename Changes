@@ -1,0 +1,12 @@
+Revision history for Graphics-ColorNames-Netscape:
+
+{{$NEXT}}
+
+v3.1.0    2018-09-30 13:24:34+01:00 Europe/London
+  [Incompatabilities]
+  - Split into separate distribution from Graphics-ColorNames
+
+  [Documentation]
+  - Use archive.org link to original web page.
+
+  - Updated contributor names.
