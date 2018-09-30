@@ -2,6 +2,8 @@ Revision history for Graphics-ColorNames-Netscape:
 
 {{$NEXT}}
 
+v1.0.0    2018-09-30 14:41:45+01:00 Europe/London
+
 v3.1.0    2018-09-30 13:24:34+01:00 Europe/London
   [Incompatabilities]
   - Split into separate distribution from Graphics-ColorNames
