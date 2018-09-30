@@ -26,7 +26,7 @@ use v5.6;
 use strict;
 use warnings;
 
-our $VERSION = 'v1.0.1';
+our $VERSION = 'v1.0.2';
 
 sub NamesRgbTable() {
     use integer;
