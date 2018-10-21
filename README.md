@@ -4,7 +4,7 @@ Graphics::ColorNames::Werner - RGB codes for Werner's Nomenclature of Colours
 
 # VERSION
 
-version v1.0.2
+version v1.0.3
 
 # SYNOPSIS
 
